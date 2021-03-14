@@ -1,0 +1,1 @@
+update vxvfz_categories set parent_id = null WHERE parent_id = 0;
